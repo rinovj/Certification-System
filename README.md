@@ -56,17 +56,17 @@ This pandemic should be able to bring us luck in winning the business competitio
 * Assessment Record Module.
 * Feedback and Annotation Module.
 
-## Dashboards
+## Dashboards (10 Modules)
 ![Dashboards](https://user-images.githubusercontent.com/22849660/226152127-4f221e3f-96fa-4def-9118-628d2221c08b.png)
 
-## Master Forms Modules
+## Master Forms Modules (8+ Modules)
 ![Masters](https://user-images.githubusercontent.com/22849660/226152146-92273244-d5f0-4f76-a4a6-4e9e16212c67.png)
 
-## Assessments Modules 1
+## Assessments Modules 1 (8+ Modules)
 ![Assessment 1](https://user-images.githubusercontent.com/22849660/226152168-618cda34-4d2d-4661-8193-38647695fb55.png)
 
-## Assessments Modules 2
+## Assessments Modules 2 (8+ Modules)
 ![Assessment 2](https://user-images.githubusercontent.com/22849660/226152181-a7c42fc6-2311-4efe-aefe-d5c1a0d1562a.png)
 
-## Multi-language Sample Module
+## Multi-language Sample Module (Chinese)
 ![22  Multi-Lingual - Chinese](https://user-images.githubusercontent.com/22849660/226152208-b20c4122-40e7-4ca7-89a9-03b631622c70.png)
