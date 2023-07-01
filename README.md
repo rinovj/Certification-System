@@ -1,6 +1,6 @@
 # [Online Assessment System]()
 * _A web application with various advanced forms, customized approval workflow, and natural digital signature_ .
-* _Developed with Microsoft C# Blazor WASM 7, ASP.NET Core 7, SQL Server 2016_ .
+* _Developed with Microsoft C# Blazor WASM 7, ASP.NET Core 7, SQL Server 2022_ .
 
 ## [Introduction]()
 During this Coronavirus Pandemic, on-site/direct or face-to-face assessments (which were usually done in the past) is now very difficult to do because in general, now a days the (prospective) clients refuse or do not accept physical visits due to the above pandemic reasons.
